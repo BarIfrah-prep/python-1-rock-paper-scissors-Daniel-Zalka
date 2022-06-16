@@ -26,6 +26,7 @@ What do I need to do to run it?\
 1. click play button.
 
 Give one or two examples of input and output.
+
 1.player = int(input("Chose your number:"))
       player == 1 and computer == 3:
         player = "rock"
