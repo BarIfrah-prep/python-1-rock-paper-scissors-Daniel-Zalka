@@ -6,7 +6,7 @@ where all of your program information (how to run, what is the input/output, and
 I'll give you a template this time, but from here on you'll need to manage this by yourselves. Good luck!
 
 # (daniel project - rock,paper,sicssors)
-The code is a game of paper rock and scissors, you against the computer. The goal is to win the round
+The code is a game of rock paper and scissors, you against the computer. The goal is to win the round
 
 ## Who's submitting?
 NAME: danielza@edu.hac.ac.il
