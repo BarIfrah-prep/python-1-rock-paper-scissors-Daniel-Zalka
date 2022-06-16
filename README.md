@@ -33,5 +33,9 @@ Give one or two examples of input and output.
         computer = "scissors"
         print("rock win, player win!")
         
+2.rematch = input("Do you want play rematch y/n?")
+    player == y:
+    print(good bye)
+        
 
 ### This is it! Your assignement instructions are attached in the repository. Good luck!
