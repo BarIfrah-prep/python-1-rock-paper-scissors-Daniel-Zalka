@@ -10,7 +10,7 @@ The code is a game of paper stone and scissors, you against the computer. The go
 
 ## Who's submitting?
 NAME: danielza@edu.hac.ac.il
-NEME : Daniel zalka
+NAME : Daniel zalka
 
 ## Code input\output\ how to run
 What is the input of this code?\
