@@ -23,10 +23,7 @@ What is the output of this code?\
 3. when the player finish playing (good bye)
 
 What do I need to do to run it?\
-first you need to click the play button
-1. To run the code you need to answer the choices inside the input. for example: 
- player need chose number between 1-3 
-2.after the round we ask the player if he want rematch y or n
+1. click play button.
 
 Give one or two examples of input and output.
 1.player = int(input("Chose your number:"))
