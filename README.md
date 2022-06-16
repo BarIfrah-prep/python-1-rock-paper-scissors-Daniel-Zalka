@@ -32,6 +32,6 @@ Give one or two examples of input and output.
         player = "rock"
         computer = "scissors"
         print("rock win, player win!")
-
+        
 
 ### This is it! Your assignement instructions are attached in the repository. Good luck!
